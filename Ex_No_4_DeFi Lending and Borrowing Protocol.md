@@ -82,6 +82,11 @@ Users can borrow ETH by providing collateral.
 
 If collateral < 150% of borrowed amount, liquidators can seize the collateral.
 
+<img width="1718" height="810" alt="image" src="https://github.com/user-attachments/assets/707c2190-ad3a-49a7-a1bd-66cede757785" />
+
+<img width="1718" height="808" alt="image" src="https://github.com/user-attachments/assets/b421f771-14a3-4cd9-9c0e-c313aab2d656" />
+
+<img width="1705" height="812" alt="image" src="https://github.com/user-attachments/assets/82ee5c2b-9b06-4109-9434-c3a3304392ed" />
 
 
 # High-Level Overview:
@@ -95,3 +100,4 @@ Directly related to DeFi protocols like Aave and Compound.
 
 # RESULT : 
 
+Thus, the given experiment has been executed successfully.
